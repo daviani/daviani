@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviani" alt="daviani" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fdaviani" target="blank"><img src="https://img.shields.io/twitter/follow/fdaviani?logo=twitter&style=for-the-badge" alt="fdaviani" /></a> </p>
+
 - 🔭 I’m currently working on [Mephisto](https://github.com/daviani/mephistopheles-pub)
 
 - 🌱 I’m currently learning **back end with nodeJS and unit testing**
@@ -17,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/fdaviani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fdaviani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daviani-fillatre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviani-fillatre/" height="30" width="40" /></a>
 </p>
 
