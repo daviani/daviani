@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviani&label=Profile%20views&color=0e75b6&style=flat" alt="daviani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviani" alt="daviani" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fdaviani" target="blank"><img src="https://img.shields.io/twitter/follow/fdaviani?logo=twitter&style=for-the-badge" alt="fdaviani" /></a> </p>
-
 - 🔭 I’m currently working on [Enciclopedia Trobadors](https://github.com/daviani/Enciclopedia-trobadors)
 
 - 🌱 I’m currently learning **back end with nodeJS and unit testing**
