@@ -18,6 +18,6 @@
 <a href="https://linkedin.com/in/daviani-fillatre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviani-fillatre/" height="30" width="40" /></a>
 </p>
 
-<br> <br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviani&show_icons=true&locale=en" alt="daviani" /></p>
