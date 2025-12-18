@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Daviani</h1>
-<h3 align="center">A passionate developer from Lyon</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviani&label=Profile%20views&color=0e75b6&style=flat" alt="daviani" /> </p>
+# Daviani
 
-- 🔭 I’m currently working on [Enciclopedia Trobadors](https://github.com/daviani/Enciclopedia-trobadors)
+Développeur Full-Stack & DevOps basé à Lyon.
 
-- 🌱 I’m currently learning **back end with nodeJS and unit testing**
+8 ans d'expérience, dont une spécialisation en **accessibilité numérique** (RGAA) et applications métier pour le secteur public.
 
-- 👨‍💻 All of my projects are available at [nano.daviani.dev](nano.daviani.dev)
+## Stack principale
 
-- 📫 How to reach me **contact@daviani.dev**
+.NET / Angular • Next.js / React • PostgreSQL  
+GitLab CI/CD • Docker • Infrastructure Linux
 
-- 📄 Know about my experiences [https://daviani.dev/CV-Daviani_Web-developer.pdf](https://daviani.dev/CV-Daviani_Web-developer.pdf)
+## En ce moment
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daviani-fillatre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviani-fillatre/" height="30" width="40" /></a>
-</p>
+**[ia](https://github.com/daviani/ia)** — Stack de dev local-first avec Qwen3, Aider, Ollama et un bridge MCP pour étendre le modèle avec des outils on-device.
 
-<br>
+**[sites](https://github.com/daviani/sites)** — Monorepo Turborepo + Next.js 16 qui propulse daviani.dev. Design system Apple × Nord, i18n, dark mode, Framer Motion.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviani&show_icons=true&locale=en" alt="daviani" /></p>
+## Contact
+
+[daviani.dev](https://daviani.dev) • [hello@daviani.dev](mailto:hello@daviani.dev) • [LinkedIn](https://linkedin.com/in/daviani-fillatre/)
