@@ -3,7 +3,7 @@
 
 Développeur Full-Stack & DevOps basé à Lyon.
 
-8 ans d'expérience, dont une spécialisation en **accessibilité numérique** (RGAA) et applications métier pour le secteur public.
+5 ans d'expérience, dont une spécialisation en **accessibilité numérique** (RGAA) et applications métier pour le secteur public.
 
 ## Stack principale
 
