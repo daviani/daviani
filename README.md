@@ -1,20 +1,21 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daviani&label=Profile%20views&color=0e75b6&style=flat" alt="daviani" /> </p>
 # Daviani
 
-Développeur Full-Stack & DevOps basé à Lyon.
-
-5 ans d'expérience, dont une spécialisation en **accessibilité numérique** (RGAA) et applications métier pour le secteur public.
+Développeur Full-Stack & DevOps basé à Lyon.  
+6 ans d'expérience, dont une spécialisation en **accessibilité numérique** (RGAA) et applications métier à fort volume.
 
 ## Stack principale
 
-.NET / Angular • Next.js / React • PostgreSQL  
-GitLab CI/CD • Docker • Infrastructure Linux
+Next.js / React / TypeScript • .NET / Node.js • PostgreSQL  
+GitLab CI/CD • Docker • Infrastructure Linux  
+AI-augmented workflow : Claude Code (Skills, hooks), MCP, Ollama
 
 ## En ce moment
 
-**[ia](https://github.com/daviani/ia)** — Stack de dev local-first avec Qwen3, Aider, Ollama et un bridge MCP pour étendre le modèle avec des outils on-device.
+**[sites](https://github.com/daviani/sites)** — Monorepo Turborepo + Next.js 16 qui propulse daviani.dev. Design system Tulikettu (palette boréale Päivä/Kaamos), i18n, dark mode, Framer Motion.
 
-**[sites](https://github.com/daviani/sites)** — Monorepo Turborepo + Next.js 16 qui propulse daviani.dev. Design system Apple × Nord, i18n, dark mode, Framer Motion.
+## Articles récents
+
+- [Six mois d'IA en local](https://daviani.dev/blog/six-mois-ia-en-local) — Retour d'expérience sur l'outillage Claude Code, MCP, hooks et Skills (juin 2026)
 
 ## Contact
 
